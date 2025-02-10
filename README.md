@@ -1,4 +1,4 @@
-#ECE-150 Projects
+ECE-150 Projects
 ---
-Fundamentals of Programming
+Fundamentals of Programming  
 Language: C++
