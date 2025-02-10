@@ -1,2 +1,2 @@
-ECE-150 Projects /n
+ECE-150 Projects
 Language: C++
